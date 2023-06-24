@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michelle's Homepage"
+title                    : "My Homepage"
 title_separator          : "-"
-name                     : &name "Michelle"
+name                     : &name "Me"
 description              : &description "Welcome to my hobby showcase!"
 url                      : https://zhemii.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Michelle"
+  name             : "Me"
   avatar           : "profile.png"
   bio              : "Welcome to my website!"
   location         : "Based in the U.S."
